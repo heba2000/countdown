@@ -1,0 +1,7 @@
+{
+    "HOME" : "Home",
+    "LOGIN" : "Login",
+    "ADMIN": {
+        "HOME" : "ADMIN HOME"
+    }
+}

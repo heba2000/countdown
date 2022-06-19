@@ -1,0 +1,14 @@
+.first{
+    color:  red;
+}
+.last {
+    color: aqua;
+}
+// .even{
+//     background-color: rgb(0, 174, 255);
+// }
+.span:nth-child(even){
+
+    background-color: rgb(0, 174, 255);
+
+}
